@@ -1,7 +1,7 @@
 <h1>Rubyproject</h1>
 Collaborators : <ul>
-			<li>💸 </g-emoji>Orsini Fabien 💸</li>
-			<li>:seeding:Nganta Auguste:seedling:</li>
+			<li> 💸 Orsini Fabien 💸 </li>
+			<li> :seeding: Nganta Auguste :seedling: </li>
 		</ul>
 
 
