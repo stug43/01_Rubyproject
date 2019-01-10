@@ -88,7 +88,7 @@ end
 
 def losange
 
-	puts "Salut, crée des losanges avec moi ! C'est facile, il te suffit de rentrer le nombre d'etages que tu veux."
+	puts "Salut, crée des losanges avec moi ! C'est facile, il te suffit de rentrer le nombre d'etages que tu veux. (oui, tu peux même rentrer des nombres pairs ^-^)"
 	print ">"
 	nb_etages = gets.chomp.to_i
 	puts ""
