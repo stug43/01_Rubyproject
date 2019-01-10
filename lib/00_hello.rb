@@ -1,3 +1,4 @@
+/* Ce programme peut aisément se passer de commentaires, il est 23 : 56 je n'ai plus le temps XD Et c'est dommage car les suivants sont un peu plus complexes et un peu de doc les rendraient moins indigeste. On fera mieux la prochaine fois  ^^*/
 
 def ask_first_name
     puts "Quel est ton prénom ?"
